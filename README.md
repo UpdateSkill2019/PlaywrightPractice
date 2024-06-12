@@ -1,3 +1,4 @@
 # PlaywrightPractice
 This is my first Playwright Practice repository
-Auther-- Rakhi Tyagi
+<br>
+Author-- Rakhi Tyagi
